@@ -1,4 +1,4 @@
-# Video App Starter 
+# Video App Starter (JS + React JSX)
 
 A minimal full‑stack starter with:
 - **Backend**: Node.js (ESM), Express, Socket.io, Multer, MongoDB (Mongoose)
